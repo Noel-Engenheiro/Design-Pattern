@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TabelaDeVagasDAOTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-06T00:56:38" hostname="gustavo" time="1.152">
+  <properties/>
+  <testcase name="atualizar_Vagas_Da_Tabela()" classname="org.example.TabelaDeVagasDAOTest" time="0.867"/>
+  <testcase name="listar_Vagas_Disponiveis()" classname="org.example.TabelaDeVagasDAOTest" time="0.119"/>
+  <testcase name="inserir_Vagas_Na_Tabela()" classname="org.example.TabelaDeVagasDAOTest" time="0.156"/>
+  <testcase name="deletar_Vagas_Da_Tabela()" classname="org.example.TabelaDeVagasDAOTest" time="0.002"/>
+  <system-out><![CDATA[Não existe a vaga 3 informada
+Listando vagas 
+ Código das vagas : 2
+ Nome das vagas : 
+ Descrição das vagas : 3
+ Competências das vagas : d
+ Local das vagas : d
+------------------------
+ Código das vagas : 2
+ Nome das vagas : e
+ Descrição das vagas : e
+ Competências das vagas : e
+ Local das vagas : e
+------------------------
+ Código das vagas : 2
+ Nome das vagas : c
+ Descrição das vagas : c
+ Competências das vagas : c
+ Local das vagas : c
+------------------------
+ Código das vagas : 2
+ Nome das vagas : Vaga da boa
+ Descrição das vagas : paga bem
+ Competências das vagas : saber python
+ Local das vagas : Casa do Dev Igor
+------------------------
+A vaga Vaga da boa foi inserida com sucesso.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
